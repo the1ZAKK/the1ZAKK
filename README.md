@@ -18,9 +18,10 @@ I work on multilingual AI and NLP research and build retrieval-augmented generat
 | [Multilingual Advanced RAG](https://github.com/the1ZAKK/multilingual-advanced-rag) | Arabic/English PDF research assistant with FAISS + BM25 hybrid retrieval, optional multilingual reranking, local Qwen/Ollama generation with page citations, FastAPI, Streamlit and retrieval evaluation (in development) |
 | [ZAKKstore](https://github.com/the1ZAKK/ZAKKstore) | PHP/MySQL graduation project: accounts, product search, cart, simulated checkout and administration |
 | [Java OOP School Simulation](https://github.com/the1ZAKK/java-oop-school-simulation) | Java/Eclipse console coursework modeling students, teachers and class rosters through inheritance, encapsulation and object arrays; reconstructed from the original report with repeatable builds and tests |
+| [Zakk Travel — Android](https://github.com/the1ZAKK/zakk-travel-android) | Offline Java/SQLite travel planner with local accounts, searchable city and hotel lists, saved places, trip itineraries and photo galleries; upgraded from the 2024 coursework with automated checks |
 | [Portfolio](https://github.com/the1ZAKK/Portfolio) | Education, research, software projects and interface studies |
 
-Other academic work includes an Android travel prototype and a relational retail database with Java JDBC.
+Other academic work includes a relational retail database with Java JDBC.
 
 ## Tools and skills
 
